@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@RestController //annotation that lets the app know this is a rest api controller an not just a regular class
+@RestController //annotation that lets the app know this is a rest api controller and not just a regular class
 public class MoviesApplication {
 
 	public static void main(String[] args) {
